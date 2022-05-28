@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-color: antiquewhite ;
+}
+header{
+    background-color: aqua;
+    display: block;
+    width: auto;
+}
+.ss{
+    text-align: center;
+    color: blueviolet;
+}
+.tr{
+    border: solid pink;
+}
+.t{
+    background-color: green;
+}
+.t a{
+   margin-left: 20px; 
+   text-decoration: none;
+   color: honeydew;
+}

@@ -1,0 +1,106 @@
+*{
+    color: whitesmoke;
+}
+
+body{
+    background: linear-gradient( 45deg, #000000, #ff0000);;
+}
+.link{
+    background-color: gray;
+    text-decoration: none;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 25px;
+    display: block;
+    width: auto;
+    height: 50px;
+}
+
+.hed{
+    background-color:red;
+    display: flex;
+    
+}
+.h{
+    color: #000;
+}
+.diiv {
+    text-align: center;
+    border-color: red;
+    border: double;
+    border-radius:100px ;
+    background-color: #191919;
+}
+.link p {
+    transform: scale(1);
+    transition: all 1s;
+}
+
+.link:hover {
+    transform: scale(1.5);
+    transition: all 1s;
+}
+.pi1 {
+    transform: scale(1);
+    transition: all 1s;
+    color: #909090;
+}
+
+.pi1:hover{
+    transform: scale(2);
+    transition: all 1s;
+    color: whitesmoke;
+}
+.pi2 {
+    transform: scale(1);
+    transition: all 1s;
+    color: #909090;
+}
+
+.pi2:hover{
+    transform: scale(2);
+    transition: all 1s;
+    color: whitesmoke;
+}
+.pi3 {
+    transform: scale(1);
+    transition: all 1s;
+    color: #909090;
+}
+
+.pi3:hover{
+    transform: scale(2);
+    transition: all 1s;
+    color: whitesmoke;
+}
+.pi4 {
+    transform: scale(1);
+    transition: all 1s;
+    color: #909090;
+}
+
+.pi4:hover{
+    transform: scale(2);
+    transition: all 1s;
+    color: whitesmoke;
+}
+
+.pas {
+    text-align: center;
+}
+
+.wiki{
+    text-decoration: none;
+}
+
+.wiki p{
+    color: #909090;
+    text-decoration: none;
+    transition: all 1s;
+}
+.wiki p:hover{
+    transform: scale(2);
+    text-decoration: none;
+    transition: all 1s;
+    color: whitesmoke;
+}

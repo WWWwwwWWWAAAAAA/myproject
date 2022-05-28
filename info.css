@@ -1,0 +1,39 @@
+*{
+    color: whitesmoke;
+}
+
+body{
+    background: linear-gradient( 45deg, #000000, #ff0000);
+}
+
+
+.hed{
+    background-color:red;
+    display: flex;
+    width: 500px;
+}
+.link{
+    background-color: gray;
+    text-decoration: none;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 250px;
+    display: flex;
+    width: 100px;
+    height: 50px;
+    
+}
+.link p {
+    text-align: center;
+}
+.h{
+    color: #000;
+}
+
+.algo{
+    color: blueviolet;
+}
+.xx{
+    transform: scale(2);
+    text-align: center;
+}
